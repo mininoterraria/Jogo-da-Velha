@@ -48,4 +48,4 @@ Utilize o seguinte comando para iniciar o jogo:
 node src\index.js
 ```
 
-![imggif](media/Arquivocriado.gif)
+![imggif](midia/giftutorial.gif)
